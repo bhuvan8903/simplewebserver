@@ -28,7 +28,7 @@ Testing the webserver.
 </head>
 
 <body><center>
-    <h1>My laptop configuration</h1>SANJAY V 212223230188<h1></h1></center>
+    <h1>My laptop configuration</h1>Bhuvaneshwaran H 212223240018<h1></h1></center>
     <table border="2px" align="center" cellpadding="10" style="background-color: antiquewhite;" >
     <tr style="color: black; ">
         <th>DEVICE SPECIFICATION</th>
